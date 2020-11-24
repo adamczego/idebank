@@ -1,0 +1,5 @@
+Idea{idea='eslo'}
+Idea{idea='masodik'}
+Idea{idea='harmadik'}
+Idea{idea='nagzedik'}
+Idea{idea='otodik'}
